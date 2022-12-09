@@ -20,6 +20,7 @@ This project will be created using Python and 2 of its libraries, Pandas, and ma
 
 
 ![Pyber Summary](analysis/Pyber_Summary.png)
+
 For most of the data we will utilize the data frame posted above to analyze the numerical data. Alongside figure. For fare data we will also look at a graph showing how fare changes over time.
 
 Looking at the table, we will 1st look at is the make up of total riders. Looking at the table we can see that Urban cities had far more riders than the other 2 types of areas. This would suggest that most of the traffic takes place in urban areas. when we look at total drivers we see a larger shift to urban for the make up. Comparing total drivers to total riders we can see that urban is the only area to have more drivers than actual rides. This piece of data may indicate that the urban areas may have more drivers than is necessary. This is also shown by looking at the average fare per driver. Urban areas have an average Fare of just $16.57 per driver, This may be due to the large quantity of drivers in the area on top of shorter distances to drive overall, we can clearly see this when looking at the average fare per ride. Urban area have an average fare of $24.53, much closer to the $30.97 taken in by suburban rides and $34.82 taken in by rural. These values will only be affected by the distance of the ride in question meaning it shows us a good baseline for how drivers effect the profit. Of all the markets Urban is still bringing in the most money with $39.854.38 in fares. Other the other hand, despite bringing in the
